@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\HP\Desktop\open_gl\yhunie\main.cpp(619,32): warning C4081: expected 'newline'; found '.'
+  yhunie.vcxproj -> C:\Users\HP\Desktop\open_gl\yhunie\Debug\yhunie.exe
